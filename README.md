@@ -1,7 +1,7 @@
 # patrec
 ml workshop codefiles (recognize hand-written numbers) for ourcs 2025 UTA
 
-## folder includes: 
+## repo includes: 
   - intro (intro code)
   - ones_zeros (simple code that has a program recognize if its one or zero)
   - nn (nearest neighbor)
